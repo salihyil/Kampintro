@@ -7,9 +7,9 @@ namespace Kampintro
         static void Main(string[] args)
         {
             //type safety- tip güvenliği
-            string kategoriEtiketi = "Kategori";
-            int ogrenciSayisi = 32000;
-            double faizOrani = 1.45;
+            //string kategoriEtiketi = "Kategori";
+            //int ogrenciSayisi = 32000;
+            //double faizOrani = 1.45;
             bool sistemeGirisYapmisMi = false; // buradaki değer verikaynagindan gelir.
             double dolarDun = 7.35;
             double dolarBugun = 7.45;
