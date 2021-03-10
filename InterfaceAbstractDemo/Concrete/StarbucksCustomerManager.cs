@@ -20,7 +20,8 @@ namespace InterfaceAbstractDemo.Concrete
 
             if (_customerCheckService.CheckIfRealPerson(customer))
             {
-                base.Save(customer); // Sonra kaydedilen müsteri uyuşuyosa buraya girecek.
+                base.Save(customer); // Sonra kaydedilen müsteri uyuşuyosa buraya girecek.  
+                
             }
             else
             {
